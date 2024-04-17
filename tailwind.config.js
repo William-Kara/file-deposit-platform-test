@@ -16,6 +16,7 @@ export default {
 				'arena-deep-blue': '#141520',
 				'arena-yellow': '#FF9C55',
 				'arena-grey': '#F1F3FF',
+				'arena-red': '#ed5d5a',
 			},
 		},
 	},
